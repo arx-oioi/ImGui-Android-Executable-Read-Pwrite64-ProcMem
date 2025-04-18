@@ -3,7 +3,6 @@
 - FLOAT
 - DWORD
 - HEX
-- THUMB
 
 ## Native Surface A9 to A13
 
