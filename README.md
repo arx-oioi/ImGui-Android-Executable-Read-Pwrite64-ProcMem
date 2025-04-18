@@ -23,4 +23,4 @@ You can configure the architecture in the `Application.mk` file.
 
 For a tutorial video, visit my channel: [RWT_WINDROID](https://www.youtube.com/@rwtwindroid/videos)
 
-MY TELEGREAM : [ARXMODER](https://t.me/ARXMODER)
+MY TELEGRAM : [ARXMODER](https://t.me/ARXMODER)
