@@ -1,5 +1,10 @@
 # ImGui Android Executable Read Pwrite64 ProcMem
-
+## Pwrite64
+- FLOAT
+- DWORD
+- HEX
+- THUMB
+- 
 ## Native Surface A9 to A13
 
 Special Thanks to all the third-party header files and codes.
